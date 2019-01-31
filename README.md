@@ -10,7 +10,7 @@
 * Índices de sensibilidad geométricos basados en construcciones homológicas en variedades.[Maikol Solís](https://twitter.com/maikol_solis)
 * Visualización de datos de climáticos a través de herramientas interactivas: experiencias en la Región Chorotega. [Guillermo Durán Sanabria](https://twitter.com/gds506)
 * PRETIL: Estimación de probabilidades para el mundial Rusia, 2018. [Alfonso Rojas Álvarez](https://twitter.com/alf10087)
-* ¿Cómo migrar de Excel a R? Un ejercicio práctico de aplicación en la industria. [Valery Zúñiga Kondrashov](https://www.linkedin.com/in/valery-z%C3%BA%C3%B1iga-kondrashov-b53798171?originalSubdomain=cr) y [Carolina Montoya Rivera](https://www.linkedin.com/in/carolina-montoya-rivera-382a57135/en/?originalSubdomain=cr)
+* ¿Cómo migrar de Excel a R? Un ejercicio práctico de aplicación en la industria. [Valery Zúñiga Kondrashov](https://twitter.com/telaroz) y [Carolina Montoya Rivera](https://twitter.com/serilone)
 * Proyecciones masivas al presupuesto público institucional de Costa Rica. [Óscar Centeno Mora](https://www.linkedin.com/in/oscar-centeno-mora-0a17a35b/)
 * Uso de R para mapeo de loci de caracteres cuantitativos en papaya. [Luis Barboza Barquero](http://www.agronomia.ucr.ac.cr/sitio/index.php?option=com_content&view=article&id=122:barboza-barquero-luis&catid=12&Itemid=106)
 * Optimización de slotting en almacenes con GA en R. Daniel Moreno Conejo
