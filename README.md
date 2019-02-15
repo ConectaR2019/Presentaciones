@@ -3,7 +3,7 @@
 * R y Spark para la Ciencia de Datos.	[Edgar Ruiz](https://twitter.com/theotheredgar)
 * ROpenSci: Mejores paquetes de R, mejor ciencia.	[Maëlle Salmon](https://twitter.com/ma_salmon)
 * La Ciencia de Datos con R.	[Robert Hijmans](https://rspatial.org/)
-* Analítica Urbana: Usando R y Open Data para entender nuestras ciudades.	[Antonio Vasquez Brust](https://twitter.com/vazquezbrust)
+* [Analítica Urbana: Usando R y Open Data para entender nuestras ciudades.](https://conectar19.netlify.com/#1)	[Antonio Vasquez Brust](https://twitter.com/vazquezbrust)
 
 ## Charlas : 
 
