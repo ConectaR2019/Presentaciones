@@ -7,17 +7,37 @@
 
 ## Charlas : 
 
-* Índices de sensibilidad geométricos basados en construcciones homológicas en variedades.[Maikol Solís](https://twitter.com/maikol_solis)
-* Visualización de datos de climáticos a través de herramientas interactivas: experiencias en la Región Chorotega. [Guillermo Durán Sanabria](https://twitter.com/gds506)
+* [Índices de sensibilidad geométricos basados en construcciones homológicas en variedades.](https://github.com/ConectaR2019/Presentaciones/blob/master/PRES02_MSolis.pdf)[Maikol Solís](https://twitter.com/maikol_solis)
+* [Visualización de datos de climáticos a través de herramientas interactivas: experiencias en la Región Chorotega.](https://github.com/ConectaR2019/Presentaciones/blob/master/PRES03_GDuran.pdf) [Guillermo Durán Sanabria](https://twitter.com/gds506)
 * PRETIL: Estimación de probabilidades para el mundial Rusia, 2018. [Alfonso Rojas Álvarez](https://twitter.com/alf10087)
-* ¿Cómo migrar de Excel a R? Un ejercicio práctico de aplicación en la industria. [Valery Zúñiga Kondrashov](https://twitter.com/telaroz) y [Carolina Montoya Rivera](https://twitter.com/serilone)
-* Proyecciones masivas al presupuesto público institucional de Costa Rica. [Óscar Centeno Mora](https://www.linkedin.com/in/oscar-centeno-mora-0a17a35b/)
+* [¿Cómo migrar de Excel a R? Un ejercicio práctico de aplicación en la industria.](https://github.com/ConectaR2019/Presentaciones/blob/master/PRES05_VZuniga.pdf)[Valery Zúñiga Kondrashov](https://twitter.com/telaroz) y [Carolina Montoya Rivera](https://twitter.com/serilone)
+* [Proyecciones masivas al presupuesto público institucional de Costa Rica.](https://github.com/ConectaR2019/Presentaciones/blob/master/PRES06_OCenteno.pdf) [Óscar Centeno Mora](https://www.linkedin.com/in/oscar-centeno-mora-0a17a35b/)
 * Uso de R para mapeo de loci de caracteres cuantitativos en papaya. [Luis Barboza Barquero](http://www.agronomia.ucr.ac.cr/sitio/index.php?option=com_content&view=article&id=122:barboza-barquero-luis&catid=12&Itemid=106)
-* Optimización de slotting en almacenes con GA en R. Daniel Moreno Conejo
-* Evaluación de Impacto para el Taller Saber para Decidir: Propensity Matching Score. Guillermo Arroyo
-* Usando R para la evaluación espacio-temporal de productos globales de precipitación con estaciones meteorológicas en Costa Rica. Nelson Venegas
-* Pronósticos a escala utilizando Alteryx + R - Un caso de integración entre ambas herramientas. [Gabriel Cordero Mora](https://twitter.com/DantaAnalytics)
-* Las funciones y el cálculo: ¿y por qué no usar R para visualizar interactivamente?. [Isabel Quintas](https://www.linkedin.com/in/isabel-quintas-1815a328/)
+* [Optimización de slotting en almacenes con GA en R.](https://github.com/ConectaR2019/Presentaciones/blob/master/PRES08_DMoreno.pdf) Daniel Moreno Conejo
+* [Evaluación de Impacto para el Taller Saber para Decidir: Propensity Matching Score.](https://github.com/ConectaR2019/Presentaciones/blob/master/PRES10_GArroyo.pdf) Guillermo Arroyo
+* [Usando R para la evaluación espacio-temporal de productos globales de precipitación con estaciones meteorológicas en Costa Rica.](https://github.com/ConectaR2019/Presentaciones/blob/master/PRES12_NVenegas.pdf) Nelson Venegas
+* [Pronósticos a escala utilizando Alteryx + R - Un caso de integración entre ambas herramientas.](https://github.com/ConectaR2019/Presentaciones/blob/master/PRES13_GCordero.pdf) [Gabriel Cordero Mora](https://twitter.com/DantaAnalytics)
+* [Las funciones y el cálculo: ¿y por qué no usar R para visualizar interactivamente?.](https://github.com/ConectaR2019/Presentaciones/blob/master/PRES14_IQuintas.pdf) [Isabel Quintas](https://www.linkedin.com/in/isabel-quintas-1815a328/)
+
+## Carteles:
+
+Francisco Jara Ávila
+Francisco Villalobos 
+Carolina Montoya 
+Valery Zúñiga
+Fabiola Salazar
+Silvia Solera
+Luis Diego Quirós 
+Johan Fonseca Rivera 
+Andres Fernandez 
+Mariana Chaves 
+Andres Arguedas 
+Stefani Matarrita Muñoz 
+Geannina Barrantes 
+Paul Esker 
+Fiorella Laurito 
+[Oscar Ramírez Alan](https://zenodo.org/record/2566480#.XGc0yM9Kiu6)
+
 
 ## Foro:
 
