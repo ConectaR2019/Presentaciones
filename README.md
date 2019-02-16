@@ -22,7 +22,7 @@
 ## Carteles:
 
 * Francisco Jara Ávila
-* [Francisco Villalobos](https://github.com/ConectaR2019/Presentaciones/blob/master/Villalobos.pdf)
+* [Francisco Villalobos](https://github.com/ConectaR2019/Presentaciones/blob/master/Villalobos.pdf), [código](http://rpubs.com/Francisco-VillalobosMadrigal/462169)
 * Carolina Montoya y Valery Zúñiga
 * Fabiola Salazar y Silvia Solera
 * Luis Diego Quirós 
