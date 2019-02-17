@@ -30,7 +30,7 @@
 * Andres Fernandez 
 * Mariana Chaves 
 * Andres Arguedas 
-* Stefani Matarrita Muñoz 
+* [Stefani Matarrita Muñoz](https://zenodo.org/record/2567521)
 * Geannina Barrantes 
 * Paul Esker 
 * Fiorella Laurito 
