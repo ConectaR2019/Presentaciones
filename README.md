@@ -27,7 +27,7 @@
 * Fabiola Salazar y Silvia Solera
 * Luis Diego Quirós 
 * Johan Fonseca Rivera 
-* Andres Fernandez 
+* [Andres Fernandez](https://github.com/ConectaR2019/Presentaciones/blob/master/afernandez.pdf)
 * Mariana Chaves 
 * Andres Arguedas 
 * [Stefani Matarrita Muñoz](https://zenodo.org/record/2567521)
