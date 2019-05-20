@@ -28,7 +28,7 @@
 * Luis Diego Quirós 
 * Johan Fonseca Rivera 
 * [Andres Fernandez](https://github.com/ConectaR2019/Presentaciones/blob/master/afernandez.pdf)
-* Mariana Chaves 
+* [Mariana Chaves](https://github.com/ConectaR2019/Presentaciones/blob/master/poster-Mariana%20Chaves.pdf)
 * Andres Arguedas 
 * [Stefani Matarrita Muñoz](https://zenodo.org/record/2567521)
 * Geannina Barrantes 
