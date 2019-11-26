@@ -1,3 +1,6 @@
+## [Conference Report](https://github.com/ConectaR2019/Presentaciones/blob/master/ConferenceReport_ConectaR.pdf) 
+Reporte enviado a la revista The R Journal, sin embargo el editor en jefe ha ignorado el envío, por lo que lo ponemos aquí a disposición del público.
+
 ## Charlas invitadas:
 
 * R y Spark para la Ciencia de Datos.	[Edgar Ruiz](https://twitter.com/theotheredgar)
