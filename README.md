@@ -1,7 +1,7 @@
 # ConectaR 2019: Repositorio con todo el material de presentaciones.
 
-## [Conference Report](https://journal.r-project.org/archive/2019-2/conectaR.pdf):
-Publicado en la revista The R Journal.
+## Conference Report:
+Artículo publicado en la revista The R Journal, que describe el evento y sus alcances: [aquí](https://journal.r-project.org/archive/2019-2/conectaR.pdf)
 
 ## Charlas invitadas:
 
